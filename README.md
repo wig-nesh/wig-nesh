@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">i'm an undergrad student at IIIT Hyderabad, very very very into robotics. (i mean it)</p>
+<p align="left">i'm an undergrad student at iiit hyderabad, very very very into robotics. (i mean it)</p>
 
 ###
 
@@ -27,9 +27,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/wig-nesh/wig-nesh/output/snake.svg" alt="Snake animation" />
 
 ###
