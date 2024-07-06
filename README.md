@@ -29,3 +29,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/wig-nesh/wig-nesh/output/snake.svg" alt="Snake animation" />
+
+###
