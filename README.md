@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">i'm an undergrad student at iiit hyderabad, very very very into robotics. (i mean it)</p>
+<p align="left">i'm an undergrad student at iiit hyderabad interested in robotics.</p>
 
 ###
 
