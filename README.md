@@ -26,6 +26,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" height="40" alt="verilog logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Ngspice_Icon.png" height="40" alt="ngspice logo"  />
 </div>
 
 ###
+
