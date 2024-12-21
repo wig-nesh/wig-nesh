@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/-MAGIC-orange" alt="magic badge" />
     <img src="https://img.shields.io/badge/-NGSPICE-blue" alt="ngspice badge" />
     <img src="https://img.shields.io/badge/-Verilog-red" alt="verilog badge" />
+    <img src="https://img.shields.io/badge/-ROS 2-22314E?logo=ros&logoColor=white" alt="ros2 badge" />
 </div>
 
 ###
-
