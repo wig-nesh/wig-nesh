@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">i'm an undergrad student at iiit hyderabad interested in robotics.</p>
+<p align="left">i'm an undergrad robotics researcher @ iiit hyderabad </p>
 
 ###
 
@@ -22,8 +22,8 @@
     <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" alt="arduino badge" />
 <!--     <img src="https://img.shields.io/badge/-MAGIC-orange" alt="magic badge" /> -->
 <!--     <img src="https://img.shields.io/badge/-NGSPICE-blue" alt="ngspice badge" /> -->
-    <img src="https://img.shields.io/badge/-Verilog-red" alt="verilog badge" />
-<!--     <img src="https://img.shields.io/badge/-ROS 2-22314E?logo=ros&logoColor=white" alt="ros2 badge" /> -->
+<!--     <img src="https://img.shields.io/badge/-Verilog-red" alt="verilog badge" /> -->
+    <img src="https://img.shields.io/badge/-ROS 2-22314E?logo=ros&logoColor=white" alt="ros2 badge" />
 </div>
 
 ###
